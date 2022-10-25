@@ -1,0 +1,10 @@
+DROP TABLE IF EXISTS reviews;
+DROP TABLE IF EXISTS leases;
+DROP TABLE IF EXISTS users;
+DROP TABLE IF EXISTS book_inventories;
+DROP TABLE IF EXISTS book_authors;
+DROP TABLE IF EXISTS book_editions;
+DROP TABLE IF EXISTS books;
+DROP TABLE IF EXISTS authors;
+DROP TABLE IF EXISTS contact_infos;
+DROP TABLE IF EXISTS addresses;
